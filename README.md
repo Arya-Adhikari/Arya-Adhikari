@@ -1,16 +1,15 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Arya Adhikari!
  
-Welcome to my GitHub profile! I'm a passionate [Your Role or Field] who loves working on innovative projects and exploring new technologies.
+I'm an aspiring Data Analyst passionate about data driven insights. Check out my work and feel free to connect or contribute!
  
 ---
  
 ## 🌟 About Me
-- 🔭 I’m currently working on **AIML Bootcamp(#)**
-- 🌱 Learning **[Skill or Technology]**
-- 💬 Ask me about **[Your Area of Expertise]**
-- 📫 Reach me at: **[Your Email]**
-- ⚡ Fun fact: **[Something Interesting About You]**
- 
+- 🔭 I’m currently working on **Data Analytics and AI Bootcamp(#)**
+- 🌱 Learning **[Python programming and SQL]**
+- 💬 Ask me about **[Data Analytics, People Analytics, Psychology and Human Resources]**
+- 📫 Reach me at: **[aryaadhikari58@gmail.com]**
+
 ---
  
 ## 🛠️ My Tech Stack
@@ -30,9 +29,6 @@ Here are some of my best works:
 2. [**Project 2**](https://github.com/YourUsername/YourRepo)  
    _Description: What makes this project special?_
  
-3. [**Portfolio Website**](https://github.com/YourUsername/Portfolio)  
-   _Description: A personal website showcasing my projects and blogs._
- 
 ---
  
 ## 📊 GitHub Stats
@@ -48,31 +44,9 @@ Here are some of my best works:
  
 ### 🖥️ Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
- 
----
- 
-## 📚 Latest Blog Posts
-- [**Blog Post 1**](#): How to Ace Data Science Interviews.
-- [**Blog Post 2**](#): Introduction to Flask for Beginners.
-- [**Blog Post 3**](#): My Experience Building a Dockerized Web App.
- 
+
 ---
  
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin)](https://linkedin.com/in/YourProfile)
-[![Twitter](https://img.shields.io/badge/Twitter-YourHandle-blue?logo=twitter)](https://twitter.com/YourHandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-lightblue)](https://YourWebsite.com)
- 
----
- 
-## 🏆 Achievements
-- 🏅 Winner of [Hackathon Name](#) for [Project Name].
-- 🚀 Successfully deployed [Project Name](#) using [Technology Stack].
-- 📜 Published [Research Paper Title](#) in [Journal Name].
- 
----
- 
-## 🎨 How to Use This Template
-1. Replace placeholders like `[Your Name]`, `[YourUsername]`, and `[YourWebsite]`.
-2. Add links to your projects, blog posts, and social profiles.
-3. Customize the badges, graphs, and other visual elements to match your style.
+

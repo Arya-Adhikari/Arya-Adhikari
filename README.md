@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arya Adhikari!
  
-I'm an aspiring Data Analyst passionate about data driven insights. Check out my work and feel free to connect or contribute!
+I'm an aspiring Data Analyst passionate about data driven insights. Check out my work and feel free to connect as I learn about the field!
  
 ---
  
@@ -48,5 +48,5 @@ Here are some of my best works:
 ---
  
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin)](https://linkedin.com/in/YourProfile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin)](https://linkedin.com/in/arya-adhikari-a7a28b143/)
 

@@ -48,5 +48,5 @@ Here are some of my best works:
 ---
  
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arya-Adhikari-blue?logo=linkedin)](https://linkedin.com/in/arya-adhikari-a7a28b143/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arya-blue?logo=linkedin)](https://linkedin.com/in/arya-adhikari-a7a28b143/)
 

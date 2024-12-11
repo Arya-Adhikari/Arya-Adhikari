@@ -34,10 +34,10 @@ Here are some of my best works:
 ## 📊 GitHub Stats
  
 ### 🔥 Streaks & Contributions
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=light)
  
 ### 🌟 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Arya-Adhikari&theme=dracula)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Arya-Adhikari&theme=light)
  
 ### 📈 Detailed Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)

@@ -12,5 +12,5 @@ I'm an aspiring Data Analyst passionate about data driven insights. Check out my
 
  
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arya_Adhikari-blue?logo=linkedin)](https://linkedin.com/in/arya-adhikari-a7a28b143/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arya_Adhikari-blue?logo=linkedin)](https://linkedin.com//in/arya-adhikari-101483342/)
 

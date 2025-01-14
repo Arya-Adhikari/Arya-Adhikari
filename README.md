@@ -7,7 +7,7 @@ I'm an aspiring Data Analyst passionate about data driven insights. Check out my
 ## 🌟 About Me
 - 🔭 I’m currently working on **Data Analytics and AI Bootcamp**
 - 🌱 Learning **Python programming and SQL for Data Analyses**
-- 💬 Ask me about **Data Analytics, People Analytics, Psychology and Human Resources**
+- 💬 Ask me about **Data Analytics and People Analytics**
 - 📫 Reach me at: **aryaadhikari58@gmail.com**
 
  
